@@ -18,7 +18,7 @@ package com.spotify.tests {
 	 * Spotify Metadata AS3 API 
 	 * Implementation of the SpotifyService class to show all functionality of the AS3 Metadata API
 	 * 
-	 * @author Sidney de Koning - sidney[ at ]funky-monkey.nl
+	 * @author Sidney de Koning
 	 *
 	 * @see http://www.funky-monkey.nl/blog/
 	 * @see http://developer.spotify.com/en/metadata-api/terms-of-use/

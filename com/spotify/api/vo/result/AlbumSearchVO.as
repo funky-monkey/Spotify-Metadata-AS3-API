@@ -21,7 +21,7 @@ package com.spotify.api.vo.result {
 	import com.spotify.api.vo.TerritoryRestrictionsVO;
 
 	/**
-	 * @author Sidney de Koning { sidney.dekoning@lbi.lostboys.nl }
+	 * @author Sidney de Koning 
 	 */
 	final public class AlbumSearchVO {
 		

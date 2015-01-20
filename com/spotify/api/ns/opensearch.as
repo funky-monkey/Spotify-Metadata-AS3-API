@@ -17,7 +17,7 @@
 */
 package com.spotify.api.ns {
 	/**
-	 * @author Sidney de Koning { sidney.dekoning@lbi.lostboys.nl }
+	 * @author Sidney de Koning 
 	 */
 	final public namespace opensearch = "http://a9.com/-/spec/opensearch/1.1/";
 }

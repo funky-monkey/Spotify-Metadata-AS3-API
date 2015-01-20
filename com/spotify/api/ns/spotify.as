@@ -17,7 +17,7 @@
 */
 package com.spotify.api.ns {
 	/**
-	 * @author Sidney de Koning { sidney.dekoning@lbi.lostboys.nl }
+	 * @author Sidney de Koning 
 	 */
 	final public namespace spotify = "http://www.spotify.com/ns/music/1";
 }

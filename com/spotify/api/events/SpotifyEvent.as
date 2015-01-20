@@ -20,7 +20,7 @@ package com.spotify.api.events {
 	import flash.events.Event;
 
 	/**
-	 * @author Sidney de Koning
+	 * @author Sidney de Koning 
 	 */
 	final public class SpotifyEvent extends Event {
 

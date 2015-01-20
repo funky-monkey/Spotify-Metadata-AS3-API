@@ -18,7 +18,7 @@
 package com.spotify.api.vo.result {
 
 	/**
-	 * @author Sidney de Koning { sidney.dekoning@lbi.lostboys.nl }
+	 * @author Sidney de Koning 
 	 */
 	final public class OpenSearchMetadataVO {
 
